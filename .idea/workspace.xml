@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092f668d-cf6b-4609-9f39-87df6f6abc53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnimationCar/city.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnimationCar/road.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnimationCar/sky.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnimationCar/wheel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case 6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animation_slide/slide1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animation_slide/slide2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animation_slide/slide3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animation_slide/slide4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Case 6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Case 6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car.png" beforeDir="false" afterPath="$PROJECT_DIR$/AnimationCar/car.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +63,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710912423360</updated>
-      <workItem from="1710912424412" duration="1459000" />
+      <workItem from="1710912424412" duration="4067000" />
     </task>
+    <task id="LOCAL-00001" summary="assigning">
+      <created>1710914066721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710914066721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="assigning" />
+    <option name="LAST_COMMIT_MESSAGE" value="assigning" />
   </component>
 </project>
