@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>slide</title>
+</head>
+<style>
+    main{
+        width: 100vw;
+        height: 100vh;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        overflow: hidden;
+    }
+    section{
+        display: flex;
+        width: 400vw;
+
+        animation-name: my-animation;
+        animation-duration: 5s;
+        animation-iteration-count: infinite;
+        animation-direction:alternate;
+    }
+div:nth-child(1){
+    width: 300vw;
+    height: 100vh;
+
+    border: 2px solid red;
+    background-image: url("animation_slide/slide1.jpeg");
+    background-size: cover;
+
+
+}
+div:nth-child(2){
+    width: 300vw;
+    height: 100vh;
+
+    border: 2px solid red;
+    background-image: url("animation_slide/slide2.jpeg");
+    background-size: cover;
+
+}div:nth-child(3){
+     width: 300vw;
+     height: 100vh;
+
+    border: 2px solid red;
+    background-image: url("animation_slide/slide3.jpeg");
+    background-size: cover;
+
+}
+div:nth-child(4){
+    width: 300vw;
+    height: 100vh;
+
+    border: 2px solid red;
+    background-image: url("animation_slide/slide4.jpeg");
+    background-size: cover;
+
+}
+@keyframes my-animation {
+  0%,20%{
+    transform: translateX(0%);
+   }
+    25%,45%{
+        transform: translateX(-25%);
+    }
+    50%,70%{
+        transform: translateX(-50%);
+    }
+    75%,100%{
+        transform: translateX(-75%);
+    }
+
+}
+</style>
+<body>
+<main>
+    <section>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </section>
+</main>
+</body>
+</html>
